@@ -1,0 +1,2 @@
+# Flare
+ChatTriggers Module
